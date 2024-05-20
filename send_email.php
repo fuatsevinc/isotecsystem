@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = trim($_POST["message"]);
 
     // E-posta adresi
-    $to = "fuatsevinc@icloud.com";
+    $to = "info@isotecsystem.de";
 
     // E-posta başlığı
     $subject = "Neue Kontaktformular Nachricht";
